@@ -1,9 +1,11 @@
-# Hey there, I'm Sinatra. <img src="https://flagcdn.com/h20/ca.png" alt="Canada">
+# Hey there, I'm NineLives (or amazonium in Cfx lands). <img src="https://flagcdn.com/h20/ca.png" alt="Canada">
 ### I work on the [CitizenFX](https://github.com/citizenfx) projects [FiveM](https://fivem.net/) and [RedM](https://redm.net/)
 
 
 * Most of the time I am coding in Lua.
-* I work on [RPX Framework](https://github.com/RPX-RedM) for RedM in my free time.
+* I previously worked on [RPX Framework](https://github.com/RPX-RedM) for RedM in my free time.
+* I am now mainly focused on my FiveM Server Management script store [NINEONENINE DESIGN](https://nineonenine.design/)
+* I also develop scripts for [Envi Studios](https://envi-scripts.tebex.io/)
 <br/>
 <hr/>
 <br/>
