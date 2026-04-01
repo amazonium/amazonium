@@ -3,8 +3,7 @@
 
 
 * Most of the time I am coding in Lua.
-* I previously worked on [RPX Framework](https://github.com/RPX-RedM) for RedM in my free time.
-* I am now mainly focused on my FiveM Server Management script store [NINEONENINE DESIGN](https://nineonenine.design/)
+* I am mainly focused on my FiveM Server Management script store [NINEONENINE DESIGN](https://nineonenine.design/)
 * I also develop scripts for [Envi Studios](https://envi-scripts.tebex.io/)
 <br/>
 <hr/>
